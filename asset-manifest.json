@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PLubrycht/nowy-projekt/static/css/main.e6c13ad2.css",
+    "main.js": "/PLubrycht/nowy-projekt/static/js/main.a28bc679.js",
+    "static/js/453.ddce8fa1.chunk.js": "/PLubrycht/nowy-projekt/static/js/453.ddce8fa1.chunk.js",
+    "static/media/logo.svg": "/PLubrycht/nowy-projekt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PLubrycht/nowy-projekt/index.html",
+    "main.e6c13ad2.css.map": "/PLubrycht/nowy-projekt/static/css/main.e6c13ad2.css.map",
+    "main.a28bc679.js.map": "/PLubrycht/nowy-projekt/static/js/main.a28bc679.js.map",
+    "453.ddce8fa1.chunk.js.map": "/PLubrycht/nowy-projekt/static/js/453.ddce8fa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a28bc679.js"
+  ]
+}
